@@ -1,6 +1,6 @@
-# Little CM2 Library (http://www.littlecms.com/)
+# Little CM2 Library
 
-Open Source Color Management Engine
+Open Source Color Management Engine (http://www.littlecms.com/)
 
 ## Build
 
@@ -9,7 +9,7 @@ git clone https://github.com/android-ports/lcms
 ```
 
 ```
-cd libjpeg/jni
+cd lcms/jni
 ```
 
 ```
